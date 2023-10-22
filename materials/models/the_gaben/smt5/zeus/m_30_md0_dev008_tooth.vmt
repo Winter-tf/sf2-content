@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/smt5/zeus/t_dev008_main_d"
+    	"$bumpmap"     "models/the_gaben/smt5/zeus/t_dev008_main_n"
+
+	
+	$phongexponenttexture "models/the_gaben/smt5/zeus/t_dev008_main_exp"
+
+	$phong "1"
+	$phongboost "1.09"
+	"$phongfresnelranges" "[.18 .4 1]"
+	$phongexponent 2
+	$phongalbedotint "0"
+	
+
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" "1.0"
+
+}

@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "slender\outlast\trager\Eye_MIC"
+
+	"$envmap" env_cubemap
+	"$envmapmask" "slender\outlast\trager\Eye_MIC_s"
+	"$envmaptint" "[91 29 27]"
+	"$envmapcontrast" "0.9"
+}

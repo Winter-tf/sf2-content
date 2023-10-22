@@ -1,0 +1,14 @@
+"vertexlitgeneric" {
+    "$basetexture" "models/the_gaben/ssbu/shulk_02/glow2_red"
+    "$bumpmap" "models/effects/flat_normal"
+$additive "1"
+//$nocull "1"
+//$phong "1"
+$phongboost "0"
+$ambientocclusion "0"
+
+$selfillum "1"
+$selfillummask "models/the_gaben/ssbu/shulk_02/glow2_red"
+
+$selfillumtint "[1.2 1.2 1.2 ]"
+}

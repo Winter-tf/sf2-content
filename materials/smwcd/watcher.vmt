@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "smwcd/watcher"
+	"$translucent" 1
+}

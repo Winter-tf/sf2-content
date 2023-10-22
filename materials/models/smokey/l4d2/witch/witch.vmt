@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+$baseTexture "models/smokey/l4d2/witch/witch"
+$bumpmap "models/smokey/l4d2/witch/witch_normal"
+$halflambert 0
+$allowdiffusemodulation 0
+$lightwarptexture "models/smokey/l4d2/witch/witch_lightwarp"
+$ambientocclusion 1
+
+	
+	"$phong"				"1"
+	"$phongexponent"		"10"
+	"$phongboost"			"12"
+	"$phongfresnelranges"	"[0.67 0.83 1]"
+	"$phongalbedotint"		"1"
+}

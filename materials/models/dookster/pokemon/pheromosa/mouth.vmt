@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dookster/pokemon/pheromosa/mouth"
+	"$nocull" 1
+}

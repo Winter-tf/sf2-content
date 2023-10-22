@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dookster/dbd/dredge/bodysmoke"
+	"$nocull" 1
+}

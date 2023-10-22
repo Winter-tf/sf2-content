@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\outlast\martav3\MarthaCross_Chain_Inst"
+	"$bumpmap" "models\outlast\martav3\MarthaCross_Chain_Inst_n"
+	"$nocull" 1
+              " $phong" 1
+               "$ambientocclusion" 1
+               "$halflambert" 1
+               "$phongeexponent" 4
+               "$phongboost" 2
+	$phongfresnelranges "[0 0.5 1]"
+	$rimlight 1
+	$rimlightexponent 2
+	$rimlightboost .2
+}

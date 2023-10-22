@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "smokey/borderlands2/goliath/goliath_dif"
+	"$bumpmap" "smokey/borderlands2/goliath/goliath_nrm"
+	"$ambientocculusion" "smokey/borderlands2/goliath/goliath_spec"
+
+	"$surfaceprop" "flesh"
+
+	"$nocull" 1
+
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[.5 1 5]"
+}

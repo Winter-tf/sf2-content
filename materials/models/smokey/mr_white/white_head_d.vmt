@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/smokey/mr_white/white_head_d"
+	"$bumpmap" "models/smokey/mr_white/white_head_n"
+
+	$emissiveBlendEnabled 1
+	$emissiveBlendTexture "vgui\white"
+	$emissiveBlendBaseTexture "models/smokey/mr_white/white_eye_glow"
+	$emissiveBlendTint "[1 1 1]"
+	$emissiveBlendStrength 1
+	$emissiveBlendScrollVector "[0 0]"
+}

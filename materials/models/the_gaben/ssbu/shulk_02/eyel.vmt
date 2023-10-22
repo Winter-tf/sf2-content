@@ -1,0 +1,18 @@
+"vertexlitgeneric"
+{
+	"$basetexture"			"models/the_gaben/ssbu/shulk_02/eye_shulk_iris"		// Iris color in RGB with cornea noise in A
+	"$basetexture"			"models/the_gaben/ssbu/shulk_02/eye_shulk_nor"		
+	"$Envmap"		"engine/eye-reflection-cubemap-"
+	"$envmaptint" "[0.2 0.2 0.2]"
+	$envmapfresnel 1
+	$basealphaenvmapmask 1
+
+	$detail "models/the_gaben/ssbu/shulk_02/eye_shulk"
+	$detailscale 1
+	$detailblendmode 4
+
+	"$halflambert"	"1"
+	"$nodecal"	"1"
+
+	"$ambientocclusion" ".66"		//SFM ambient occlusion modifier
+}

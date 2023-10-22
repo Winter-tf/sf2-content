@@ -1,0 +1,16 @@
+"vertexlitgeneric"
+{
+	"$basetexture"			"models/the_gaben/ssbu/cloud_alt/cloud_eyeball"		// Iris color in RGB with cornea noise in A
+	"$AmbientOcclTexture"	"models/the_gaben/ssbu/cloud_alt/cloud_eye_ao"			// Ambient occlusion in RGB, A unused
+	"$Envmap"		"engine/eye-reflection-cubemap-"
+	"$envmaptint" "[0.2 0.2 0.2]"
+	$envmapfresnel 1
+	$basealphaenvmapmask 1
+
+	"$halflambert"	"1"
+	"$nodecal"	"1"
+
+	"$lightwarptexture"			"models/the_gaben/ssbu/dpit/lightwarp_eye"	//Helps wrap light better
+
+	"$ambientocclusion" ".66"		//SFM ambient occlusion modifier
+}

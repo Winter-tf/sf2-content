@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dookster/kofxv/rock/hair"
+	"$nocull" 1
+}

@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dookster/dbd/dredge/skulls"
+	"$bumpmap" "models/dookster/dbd/dredge/skulls_n"
+	"$lightwarptexture" "models/dookster/dbd/dredge/lightwarp"
+	"$nocull" 1
+	$nodecal 1
+	"$rimlight" "1"
+	"$rimlightexponent" "15"
+	"$rimlightboost" "0.5"
+	 $rimmask 1
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "smwcd/megapeach"
+	"$alphatest" 1
+	"$nodecal" 1
+	"$translucent" 1
+}

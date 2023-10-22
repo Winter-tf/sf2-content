@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dookster/tjoc/endos/blue_wire"
+	"$nocull" 1
+}

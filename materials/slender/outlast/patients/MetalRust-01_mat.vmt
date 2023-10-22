@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "slender\outlast\patients\MetalRust-01"
+	"$bumpmap" "slender\outlast\patients\Stainless-01_N"
+	
+	$halflambert 0
+	$phong 1
+
+
+	$phongfresnelranges "[.4 .5 .9]"
+	$phongboost .2
+	$phongexponent 60
+}

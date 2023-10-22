@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/smokey/dbd/skull_merchant/merchant_weapon1_d"
+	"$bumpmap" "models/smokey/dbd/skull_merchant/merchant_weapon1_n"
+	"$model" 1
+	"$nocull" 1
+	"$phong" 1
+	"$phongboost" .09
+	"$rimlight" 1
+	"$rimlightexponent"       11
+	"$phongfresnelranges" "[1.2 3 8]"
+}

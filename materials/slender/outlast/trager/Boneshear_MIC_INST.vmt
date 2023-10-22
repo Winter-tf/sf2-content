@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "slender\outlast\trager\Boneshear_MIC_INST"
+
+$bumpmap "slender\outlast\trager\Boneshear_MIC_INST_n"
+$halflambert 0
+$phong 1
+$diffuseexp 1
+
+$phongfresnelranges "[.12 .15 1]"
+$phongtint "[0.8 0.8 1]"
+$phongboost 9
+$phongexponent 40
+$ambientocclusion 1
+$seamless_detail 1
+$seamless_scale ".005"
+}

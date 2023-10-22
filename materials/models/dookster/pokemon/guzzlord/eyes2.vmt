@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dookster/pokemon/guzzlord/eyes2"
+	"$nocull" 1
+}

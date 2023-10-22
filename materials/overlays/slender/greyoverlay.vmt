@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/slender/greyoverlay"
+
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "15"
+		 } 
+	} 
+}

@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/smokey/borderlands_2/psycho/buzzaxe_dif"
+	"$bumpmap" "models/smokey/borderlands_2/psycho/buzzaxe_nrm"
+	"$ambientocculusion" "models/smokey/borderlands_2/psycho/buzzaxe_spec"
+
+	"$surfaceprop" "flesh"
+
+	"$nocull" 1
+
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[.5 1 5]"
+}

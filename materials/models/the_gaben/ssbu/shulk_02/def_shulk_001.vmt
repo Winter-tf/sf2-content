@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/ssbu/shulk_02/def_shulk_001"
+    "$bumpmap"     "models/the_gaben/ssbu/shulk_02/def_shulk_001_nor"
+	
+
+	$phongexponenttexture "models/the_gaben/ssbu/shulk_02/def_shulk_001_exp"
+
+	$phong "1"
+	$phongboost "1"
+	$phongfresnelranges "[1 2 4]"
+	$phongalbedotint "1"
+	
+
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "7"
+	"$rimlightboost" "1.0"
+	"$rimmask"	"1"
+
+}

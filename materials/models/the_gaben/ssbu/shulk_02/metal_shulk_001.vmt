@@ -1,0 +1,29 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/ssbu/shulk_02/metal_shulk_001"
+    "$bumpmap"     "models/the_gaben/ssbu/shulk_02/metal_shulk_001_nor"
+	
+
+	$phongexponenttexture "models/the_gaben/ssbu/shulk_02/metal_shulk_001_exp"
+
+	$phong "1"
+	$phongboost "1.5"
+	$phongfresnelranges "[4 2 4]"
+	$phongalbedotint "0"
+	$phongtint "{255 36 32}"
+
+
+$selfillum "1"
+$selfillummask "models/the_gaben/ssbu/shulk_02/metal_shulk_001_emi"
+	
+
+	"$lightwarptexture" "models/lightwarps/weapon_lightwarp"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "7"
+	"$rimlightboost" "1.0"
+	"$rimmask"	"1"
+
+	$surfaceprop combine_metal
+
+}

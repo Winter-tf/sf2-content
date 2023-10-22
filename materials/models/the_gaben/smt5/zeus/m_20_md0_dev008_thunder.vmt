@@ -1,0 +1,29 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/smt5/zeus/t_dev008_thunder_d"
+	$bumpmap "models/effects/flat_normal"
+
+	$phong "1"
+	$phongboost "0.85"
+	"$phongfresnelranges" "[.18 .4 1]"
+	$phongexponent 5
+	
+	"$emissiveBlendEnabled"     "1" // Enables effect
+	"$emissiveBlendTexture"     "models/the_gaben/smt5/zeus/t_dev008_thunder_emis"
+	"$emissiveBlendBaseTexture" "models/the_gaben/smt5/zeus/t_dev008_thunder_d"
+	"$emissiveBlendFlowTexture" "vgui/white"
+	"$emissiveBlendTint"        "[1 1 1]"
+	 $emissiveBlendStrength 2
+	"$emissiveBlendScrollVector" "[0.3 0.424]"
+
+	"$time" "0.0"
+
+	"Proxies"
+	{
+		"CurrentTime"
+		{
+			"resultVar" "$time" //Needs the CurrentTime material proxy to work properly.
+		}
+	}
+
+}

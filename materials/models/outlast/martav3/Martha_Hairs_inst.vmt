@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\outlast\martav3\Martha_Hairs_D"
+	"$bumpmap" "models\outlast\martav3\Martha_Hairs_N"
+	"$translucent" 1
+}

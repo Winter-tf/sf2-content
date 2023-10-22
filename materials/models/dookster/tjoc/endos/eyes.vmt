@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dookster/tjoc/endos/eyes"
+	"$nocull" 1
+}

@@ -1,0 +1,18 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "slender\outlast\trager\Accesories_2sided_MIC"
+
+	"$nocull" "1"
+$bumpmap "slender\outlast\trager\Accesories_2sided_MIC_n"
+$halflambert 0
+$phong 1
+$diffuseexp 1
+
+$phongfresnelranges "[.1 .15 1]"
+$phongtint "[1 0 0]"
+$phongboost 2
+$phongexponent 40
+$ambientocclusion 1
+$seamless_detail 1
+$seamless_scale ".005"
+}

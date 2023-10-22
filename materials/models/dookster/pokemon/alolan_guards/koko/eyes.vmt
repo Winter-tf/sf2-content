@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dookster/pokemon/alolan_guards/koko/eyes"
+	"$nocull" 1
+}

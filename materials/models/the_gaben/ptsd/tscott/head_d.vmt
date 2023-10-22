@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$BaseTexture" 			    "models/the_gaben/ptsd/tscott/head_d"
+	"$BumpMap" 				    "models/the_gaben/ptsd/tscott/head_n"
+	"$PhongExponentTexture"     "models/the_gaben/ptsd/tscott/head_e"
+	"$NoCull" 				    "0"
+	"$NoDecal" 				    "0"
+	"$AmbientOcclusion" 	    "1"
+	"$Model"                    "1"
+	"$HalfLambert" 			    "1"
+
+	"$LightWarpTexture"         "models/the_gaben/ptsd/tscott/lightwarp"
+	"$Phong"				    "1"
+	"$PhongBoost"               "0.5" 
+	"$PhongFresnelRanges"	    "[0.1 1 8]"
+	"$PhongAlbedoTint"          "0"
+	"$NormalmapAlphaPhongMask"  "1"
+}

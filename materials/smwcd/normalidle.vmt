@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "smwcd/normalidle"
+	"$translucent" 1
+}

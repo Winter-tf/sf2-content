@@ -1,0 +1,19 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "slender\outlast\groom_v2\chareyelashes-01_inst"
+	$bumpmap "models/effects/flat_normal"
+	"$selfillum" "1"
+	"$selfillummask" "slender\outlast\groom_v2\illum"
+$halflambert 0
+$phong 1
+
+
+$phongfresnelranges "[.4 .5 .9]"
+$phongboost .3
+$phongexponent 40
+
+	"$rimlight" "1"						
+	"$rimlightexponent" "20"				
+	"$rimlightboost" ".8"
+
+}

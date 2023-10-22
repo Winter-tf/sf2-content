@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "smwcd/faceless"
+	"$translucent" 1
+   	"$nodecal" 1
+}

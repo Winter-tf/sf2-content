@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/spiderman/doc_ock/body"
+	"$selfillummask" "models/spiderman/doc_ock/mecharmill"
+                "$selfillum" "1"
+                "$selfillumtint" "[5 6 7]"
+}

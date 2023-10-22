@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/smokey/mr_white/white_body_d"
+	"$bumpmap" "models/smokey/mr_white/white_body_n"
+
+	"$color2"		"{255 0 0}"
+}

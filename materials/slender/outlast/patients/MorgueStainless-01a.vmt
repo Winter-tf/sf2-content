@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "slender\outlast\patients\MorgueStainless-01a"
+	"$bumpmap" "slender\outlast\patients\MorgueStainless-01a_n"
+	
+	$halflambert 1
+	$phong 1
+	$diffuseexp 1
+	
+	$phongfresnelranges "[.01 .15 1]"
+	$ambientocclusion 1
+	$seamless_detail 1
+	$seamless_scale "1"
+	$phongboost 0.35
+	$phongexponent 1
+	
+	"$rimlight" "1"
+	"$rimlightexponent" "0.02"
+	"$rimlightboost" "0.15"	
+}

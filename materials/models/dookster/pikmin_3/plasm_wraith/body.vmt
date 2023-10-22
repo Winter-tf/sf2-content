@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dookster/pikmin_3/plasm_wraith/body"
+	"$nocull" 1
+}

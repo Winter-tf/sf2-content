@@ -1,0 +1,16 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/the_gaben/projectiles/hl2/spitball"
+	"$bumpmap" 	"models/the_gaben/projectiles/hl2/spitball_normal"
+	"$envmap" "env_cubemap"
+ 	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[ 1.0 1.0 1.0]"
+	"$surfaceprop"	"alienflesh"
+
+	"$selfillum" "1"
+	"$selfIllumFresnel" "1"
+	"$selfIllumFresnelMinMaxExp" "[0.2 2.2 3]" // 0.0 1.0 1.0 is the default
+	"$selfillumtint"	"{203 219 122}"
+
+	"$model" "1"
+}

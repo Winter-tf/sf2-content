@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"models/the_gaben/ssbu/cloud_alt/alp_cloud_001_c"
+	"$bumpmap" 			"models/the_gaben/ssbu/cloud_alt/alp_cloud_001_nor"
+
+	"$phong" 			"1"
+//	"$phongtint"			"{52 50 58}"
+	"$phongexponenttexture"		"models/the_gaben/ssbu/cloud_alt/alp_cloud_001_exp"
+//	"$phongexponent" 			"5.5"
+	"$phongalbedotint"	"1"
+	"$phongboost" 			".4"
+	"$phongfresnelranges"		"[1 2 4]"
+
+	"$translucent"	"1"
+
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" "1.5"
+	"$rimmask"	"1"
+
+}

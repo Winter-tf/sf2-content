@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/drillerjumpscare_v2"
+	"$translucent" "1"
+               	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "20"
+		 } 
+	} 
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/smt5/khonsu/t_dev426_eyeshadow_mask"
+	$translucent 1
+}

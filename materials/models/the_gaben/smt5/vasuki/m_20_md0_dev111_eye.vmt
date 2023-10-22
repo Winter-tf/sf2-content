@@ -1,0 +1,7 @@
+"unlitGeneric"
+{
+	$nodecal 1
+	$model 1
+
+	"$basetexture" "models/the_gaben/smt5/vasuki/t_dev111_main_d"
+}

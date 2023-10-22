@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "slender\outlast\patients\patient_3_chest"
+	"$bumpmap" "slender\outlast\patients\patient_3_chest_n"
+	
+	$halflambert 0
+	$phong 1
+
+
+	$phongfresnelranges "[.4 .5 .9]"
+	$phongboost .2
+	$phongexponent 60
+
+	"$rimlight" "1"						
+	"$rimlightexponent" "20"				
+	"$rimlightboost" ".8"
+}

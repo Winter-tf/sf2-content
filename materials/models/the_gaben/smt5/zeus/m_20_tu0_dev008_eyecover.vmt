@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/smt5/zeus/t_ge_eyecover"
+	$translucent 1
+
+}

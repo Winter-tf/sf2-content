@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "smwcd/drowned"
+	"$translucent" 1
+}

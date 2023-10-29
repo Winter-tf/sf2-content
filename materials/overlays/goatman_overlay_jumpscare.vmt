@@ -1,0 +1,17 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/goatman_overlay_jumpscare"
+	"$nolod" 1
+	"$nomip" 1
+	"$ignorez" 1
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 11
+		}
+	}
+}
+

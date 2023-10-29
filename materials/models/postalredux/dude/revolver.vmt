@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/postalredux/dude/revolver"
+	"$bumpmap"     "models/postalredux/dude/revolver_n"
+
+	"$phong" "1"
+	"$phongboost" "1.5"
+	"$phongexponent" "5"
+	"$phongfresnelranges" "[.07 .3 .1]"
+}

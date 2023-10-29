@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/slender_skinwalker/skinwalker_skinwalker_pelt"
+	"$surfaceprop" "flesh"
+}

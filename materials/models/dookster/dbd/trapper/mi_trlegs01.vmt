@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dookster/dbd/trapper/mi_trlegs01"
+	"$normalmap" "models/dookster/dbd/trapper/mi_trlegs01_n"
+}

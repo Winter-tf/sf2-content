@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+ "$basetexture" "models/Weapons/M16/M16_mag"
+ 
+  "$basemapalphaphongmask" "1"
+	"$phong" "1"
+	"$phongexponent" 5
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[0.5 1 1]"
+
+// "$envmap" "cube_maps/BottleEnv_cubemap"
+// "$basealphaenvmapmask" 1
+
+// "$envmapcontrast" 0.5
+// "$envmaptint" "[0.16 0.16 0.16]"
+}

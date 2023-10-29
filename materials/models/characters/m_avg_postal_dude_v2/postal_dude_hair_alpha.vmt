@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Characters/M_Avg_Postal_Dude_v2/Postal_Dude_hair"
+	//"$basetexture" "models/gray"
+	"$bumpmap" "models/Characters/M_Avg_Postal_Dude_v2/Postal_Dude_hair_normal"
+	//"$normalmapalphaenvmapmask" "1"
+	//"$envmaptint" "[.5 .5 .5]"
+	"$nocull" "1"
+	//"$model" "1"
+	"$translucent" "1"
+	//"$alphatest" 1
+	"$sortfaces" 1
+
+	"$phong" "1"
+	"$phongexponent" "6"
+	"$phongboost"	"3"
+	//"$phongexponenttexture" "models/Characters/M_Avg_Postal_Dude/Postal_Dude_head_exponent"
+	"$phongfresnelranges"	"[0.1 0.5 1]"
+
+//	"$rimlight" "1"
+//	"$rimlightboost" "0.01"
+//	"$rimlightexponent" "models/Characters/M_Avg_Postal_Dude/Postal_Dude_head_mask"
+//	"$lightwarptexture" "models/tmp_pers/lightwarptexture"
+	//"$halflambert" "1"
+
+}

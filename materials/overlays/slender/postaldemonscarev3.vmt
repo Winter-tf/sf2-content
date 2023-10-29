@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/slender/postaldemonscarev3"
+	"$translucent" 1
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "8"
+		 } 
+	} 
+}

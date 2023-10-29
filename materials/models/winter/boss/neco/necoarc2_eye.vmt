@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/winter/boss/neco/necoarc2_tex"
+
+	"$lightwarptexture" "models/winter/boss/neco/lightwarptexture"
+
+}

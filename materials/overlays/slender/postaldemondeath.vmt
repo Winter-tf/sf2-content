@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/slender/postaldemondeath"
+
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "8"
+		 } 
+	} 
+}

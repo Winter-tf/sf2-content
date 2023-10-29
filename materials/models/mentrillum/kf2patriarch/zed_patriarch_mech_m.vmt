@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/mentrillum/kf2patriarch/zed_patriarch_mech_m"
+	"$bumpmap" "models/mentrillum/kf2patriarch/zed_patriarch_mech_n"
+
+
+	$phong 1
+	$diffuseexp 1
+
+	$phongfresnelranges "[1.5 1 1]"
+	$phongboost 1
+	$phongexponent 11
+
+
+
+	"$surfaceprop" "flesh"
+}

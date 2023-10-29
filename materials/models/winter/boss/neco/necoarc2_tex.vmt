@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/winter/boss/neco/necoarc2_tex"
+	"$bumpmap" "models/winter/boss/neco/necoarc2_nrm"
+
+	"$lightwarptexture" "models/winter/boss/neco/lightwarptexture"
+
+	"$phong" "1"
+	"$phongboost"	"24"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models/winter/boss/neco/phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

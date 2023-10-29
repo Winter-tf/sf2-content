@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/kf2/hans/zed_hans_d"
+        "$bumpmap"     "models/the_gaben/kf2/hans/zed_hans_n"
+
+        "$phong"                       "1"
+	"$phongboost"                  "5"
+	"$phongexponent"               "11"
+	"$halflambert"                 "1"
+	"$phongfresnelranges"          "[.1 .1 .1]"
+	"$ambientocclusion"            "1"
+	"$diffuseexp"                  "1.5"
+
+        "$selfillum"	               "0"
+        "$selfillumtint"               "[.3 .3 .3]"
+}

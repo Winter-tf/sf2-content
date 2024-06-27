@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/zerosiki/alienswarm/winganim"
+	"$translucent" "1"
+
+	"$phong"				"1"
+	"$phongexponent" 		"20"
+	"$phongboost"			"10"
+	"$phongfresnelranges"	"[0.1 0.5 1]"
+	"$phongexponenttexture" "models/zerosiki/alienswarm/exponent"
+	"$phongalbedotint"		"1"
+	Proxies
+	{
+		AnimatedTexture
+		{
+			animatedTextureVar $basetexture
+			animatedTextureFrameNumVar $frame
+			animatedTextureFrameRate 5 
+		}
+	}
+}

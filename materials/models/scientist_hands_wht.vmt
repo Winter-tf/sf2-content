@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/smokey/mistake_mod/hamon_heath/scientist_hands_wht"
+	"$bumpmap" "models/smokey/mistake_mod/hamon_heath/scientist_hands_wht_norm"
+	"$nocull" 1
+	"$model" 1
+	"$phong" 1
+	"$phongboost" .09
+	"$rimlight" 1
+	"$rimlightexponent"       11
+	"$phongfresnelranges" "[1.2 3 8]"
+}

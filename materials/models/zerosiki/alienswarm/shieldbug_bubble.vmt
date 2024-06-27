@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	$baseTexture "models/zerosiki/alienswarm/shieldbug_brain"
+	$bumpmap "models/zerosiki/alienswarm/shieldbug2_normal"
+
+	$selfillum 1
+	$selfIllumFresnel 1
+	$selfIllumFresnelMinMaxExp "[.05 1.0 10]" 
+	$selfillumtint "[1.25 1.0 .65]"
+	$selfillummask "models/zerosiki/alienswarm/shieldbug_brain"
+
+	$color2 "[0.95 1 0.65]"
+
+	"$phong"				"1"
+	"$phongexponent" 		"20"
+	"$phongboost"			"50"
+	"$phongfresnelranges"	"[0.1 0.5 1]"
+	"$phongexponenttexture" "models/zerosiki/alienswarm/exponent"
+	"$phongalbedotint"		"1"
+
+	"$ambientocclusion" "1"
+}

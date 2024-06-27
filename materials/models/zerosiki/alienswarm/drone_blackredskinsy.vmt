@@ -1,0 +1,31 @@
+VertexLitGeneric
+{
+	$basetexture "models/zerosiki/alienswarm/drone_blackredskin"
+	$bumpmap "models/zerosiki/alienswarm/drone_sml_compressed_normal"
+
+	$surfaceprop flesh
+
+	$envmap "models/zerosiki/alienswarm/droneenv01"
+
+	$detail "models/zerosiki/alienswarm/model_layer_ice_1.vtf"
+	$detailscale 5
+	$detailblendfactor 0.0
+	$detailblendmode 5
+
+	"$phong"				"1"
+	"$phongexponent" 		"20"
+	"$phongboost"			"35"
+	"$phongfresnelranges"	"[0.1 0.5 1]"
+	"$phongexponenttexture" "models/zerosiki/alienswarm/exponent"
+	"$phongalbedotint"		"1"
+
+	Proxies
+	{
+		AnimatedTexture
+		{
+		animatedtexturevar $detail
+		animatedtextureframenumvar $detailframe
+		animatedtextureframerate 30
+		}
+	}
+}

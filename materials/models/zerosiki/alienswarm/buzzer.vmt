@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+		$baseTexture "models/zerosiki/alienswarm/buzzer_color"
+		$bumpmap "models/zerosiki/alienswarm/buzzer_normal"
+
+		"$phong"				"1"
+		"$phongexponent" 		"20"
+		"$phongboost"			"10"
+		"$phongfresnelranges"	"[0.1 0.5 1]"
+		"$phongexponenttexture" "models/zerosiki/alienswarm/exponent"
+		"$phongalbedotint"		"1"
+
+		$selfIllumFresnel 1
+		$selfIllumFresnelMinMaxExp "[0.1 2.5 5.0]" 
+		$selfillumtint "[0.5 1 1]"
+		$selfillummask "models/zerosiki/alienswarm/buzzer_selfillum"
+	}
+}

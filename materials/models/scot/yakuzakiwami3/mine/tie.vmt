@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scot/yakuzakiwami3/mine/suit"
+    	"$bumpmap"     "models/scot/yakuzakiwami3/mine/suit_n"
+
+	$phong				"1"
+	$phongboost			"2"
+	$phongexponent			"5"
+	$phongfresnelranges		"[1 3 6]"
+	"$phongalbedotint" "1"
+	"$phongtint" "[0.06 0.06 0.01]"
+               "$detail" "models/scot/yakuzakiwami3/mine/tie_detail"
+	"$detailscale"	"30"
+	$detailblendfactor 0.25
+
+	
+
+}

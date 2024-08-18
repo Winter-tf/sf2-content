@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scot/yakuzakiwami3/mine/shirt"
+    	"$bumpmap"     "models/scot/yakuzakiwami3/mine/suit_n"
+	
+
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "0.5"
+	"$phongfresnelranges" "[.035 .025 .025]"
+
+
+	
+
+}

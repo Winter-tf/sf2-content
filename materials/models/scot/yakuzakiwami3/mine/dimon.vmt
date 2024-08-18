@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scot/yakuzakiwami3/mine/dimon"
+    	"$bumpmap"     "models/scot/yakuzakiwami3/mine/dimon_n"
+	"$envmap" "cubemaps/cubemap_sheen001"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmapfresnel"   "1"
+}
